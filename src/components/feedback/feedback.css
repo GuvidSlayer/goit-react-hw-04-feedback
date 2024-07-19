@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  border: 2px solid black;
+  margin: 25px 200px;
+  box-shadow: -2px 1px 27px 3px rgba(0, 0, 0, 0.75) inset;
+  -webkit-box-shadow: -2px 1px 27px 3px rgba(0, 0, 0, 0.75) inset;
+  -moz-box-shadow: -2px 1px 27px 3px rgba(0, 0, 0, 0.75) inset;
+}
+
+button {
+  margin: 10px;
+  padding: 5px;
+  background-color: rgb(200, 200, 200);
+}
